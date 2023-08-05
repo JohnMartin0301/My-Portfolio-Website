@@ -6,7 +6,7 @@ export default [
         link: 'https://github.com/JohnMartin0301/Personal-Finance-Tracker-Java-',
     },
     {
-        title: 'SecURL',
+        title: 'SecURL for Cybersecurity',
         imgUrl: './assets/SecURL1.png',
         stack: ['Python'],
         link: 'https://github.com/JohnMartin0301/SecURL',
